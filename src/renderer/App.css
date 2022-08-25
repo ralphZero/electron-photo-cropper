@@ -60,3 +60,12 @@ a:hover {
   align-items: center;
   margin: 20px 0;
 }
+
+.save-btn {
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: 1em;
+  background-color: dodgerblue;
+  color: aliceblue;
+}
